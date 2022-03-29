@@ -82,7 +82,7 @@ h1.temperature {
 }
 
 .weather.loading:after{
-    visibility: visible;
+    visibility: hidden;
     content: "Loading...";
     color: white;
     position: absolute;
