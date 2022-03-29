@@ -36,9 +36,12 @@ button {
     color: white;
     cursor: pointer;
     transition: 0.2s ease-in-out;
-    background: #969697;
+    background: #7c7c7c2b;
 }
 
+button:hover{
+    color: rgb(51, 51, 51);
+}
 
 input.Search-bar {
     border: none;
